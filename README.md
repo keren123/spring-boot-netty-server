@@ -6,7 +6,7 @@
 
 具体的依赖版本如下： 
 
-| Spring Cloud        |    netty      |
+| Spring boot         |    netty      |
 | ------------------- | ------------- |
 | 2.0.8.RELEASE       | 4.1.31.Final  |
 
