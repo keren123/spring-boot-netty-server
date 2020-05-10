@@ -1,8 +1,9 @@
-# 疯狂创客圈 spring-boot-starter-netty 
+## 疯狂创客圈 spring-boot-starter-netty  简介
+
+一个基于Netty(4.1.12.Final)实现的SpringBoot(或者SpringCloud）内置WebServer服务器。 
+
 愿景：基于Netty和RxJava，实现全网第一个具备自我保护能力的、高性能WebServer。
 
-## 简介
-一个基于Netty(4.1.12.Final)实现的SpringBoot(或者SpringCloud）内置WebServer服务器。 
 具体的依赖版本如下： 
 
 | Spring Cloud        |    netty      |
