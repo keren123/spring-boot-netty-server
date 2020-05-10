@@ -2,7 +2,7 @@
 
 一个基于Netty(4.1.12.Final)实现的SpringBoot(含SpringCloud）内置WebServer服务器。 
 
-愿景：基于Netty和RxJava，实现全网第一个具备自我保护能力的、高性能SpringBoot(含SpringCloud）内置WebServer。
+愿景：基于Netty和RxJava，实现全网第一个具备自保护能力的、高性能SpringBoot(含SpringCloud）内置WebServer。
 
 具体的依赖版本如下： 
 
@@ -44,3 +44,6 @@
 
 3. v3.0  版本（规划中）
 实现服务器的状态管理（green、yellow、red），并且在状态变化时，能够及时发出预警
+
+## 欢迎大家参与
+欢迎大家参与，一起来打造一款高性能、具备自保护能力的WebServer。开发时，可以拉取自己的分支，开发完成后，提merge请求到develop分支即可。
