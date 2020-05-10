@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.crazymaker.servlet.container.netty.bootstrap.NettyWebServerAutoConfiguration
